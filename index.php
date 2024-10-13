@@ -35,13 +35,11 @@
         <div class="auth-wrapper d-flex no-block justify-content-center align-items-center position-relative"
             style="background:url(ass/assets/images/big/auth-bg.jpg) no-repeat center center;">
             <div class="auth-box row" style="width: 1000px; border-radius: 10px;" >
-                <div class="col-lg-7 col-md-5 modal-bg-img" style="background-image: url(ass/assets/images/big/3.jpg); border-radius: 10px;">
+                <div class="col-lg-7 col-md-5 modal-bg-img" style="background-image: url(ass/assets/images/big/img1.jpg); border-radius: 10px;">
                 </div>
                 <div class="col-lg-5 col-md-7 bg-white" style="border-radius: 10px; border-right: 0;" >
                     <div class="p-3">
-                        <div class="text-center">
-                            <img src="ass/assets/images/big/icon.png" alt="Voting System">
-                        </div>
+                        
                         <h2 class="mt-3 text-center">TMS Voting Hub</h2>
                         <p class="text-center">Enter your Voter's ID and password to access Voting panel.</p>
                         <form class="mt-4" action="login.php" method="POST">
